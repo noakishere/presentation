@@ -19,22 +19,33 @@
       </style>
 </head>
 <body>
-    <textarea id="source">
+    <!-- <textarea id="source">
 
-        class: middle
-
-        # Welcome!
-
-        .hi[CART 215 / Fall 2019 / Week 01 / Enric Granzotto Llagostera]
-
+        class: center, middle
+        
+        # Title
+        
         ---
-
-    </textarea>
+        
+        # Agenda
+        
+        1. Introduction
+        2. Deep-dive
+        3. ...
+        
+        ---
+        
+        # Introduction
+        
+    </textarea> -->
 
     <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
 
     <script>
-        var slideshow = remark.create();
-     </script>
+        var slideshow = remark.create({
+            sourceUrl: 'notes.md',
+            ratio: '16:9'
+        });
+    </script>
 </body>
 </html>
