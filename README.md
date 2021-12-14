@@ -4,6 +4,6 @@ This slideshow is a part of my talk for Stage Presentations of Vanier College Co
 
 ---
 
-# Technology used
+## Technology used
 
 I used [remark.js](remarkjs.com) to prepare this presentation.
