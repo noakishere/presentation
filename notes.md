@@ -6,6 +6,8 @@ Kamyar Karimi / TELUS / Fall Stage 2021
 
 ---
 
+class: middle
+
 # Agenda
 
 1. What was my project?
