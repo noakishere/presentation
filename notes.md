@@ -39,3 +39,45 @@ class: middle
 
 # What is Google Cloud Platform?
 
+---
+
+class: middle
+
+# What is Google Cloud Platform?
+
+- Cloud Computing Powered by Google
+
+---
+
+class: middle
+
+# What is Google Cloud Platform?
+
+- Cloud Computing Powered by Google
+- It includes products such as 
+  - App Engine
+  - Cloud Function
+  - Cloud SQL
+  - Compute Engine
+  - The list goes on!
+
+---
+
+class: middle
+
+# What is Google Cloud Platform?
+
+- Cloud Computing Powered by Google
+
+- It includes products such as 
+  - App Engine
+  - Cloud Function
+  - Cloud SQL
+  - Compute Engine
+  - The list goes on!
+
+- To some extent it removes the need for physical hardware to act as your server
+
+.right[![Right-aligned image](https://878463.smushcdn.com/1984689/wp-content/uploads/2018/08/giphy.gif?lossy=1&strip=1&webp=1)]
+
+
