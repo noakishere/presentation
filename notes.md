@@ -22,7 +22,7 @@ class: middle
 
 class: middle
 
-# What was my project?
+## What was my project?
 
 - Telus inc.
 - Google Cloud Platform Support
@@ -37,14 +37,14 @@ class: middle
 
 class: middle
 
-# What is Google Cloud Platform?
+## What is Google Cloud Platform?
 
 .center[![GCP products](https://k21academy.com/wp-content/uploads/2021/01/google-cloud-services.jpg)]
 ---
 
 class: middle
 
-# What is Google Cloud Platform?
+## What is Google Cloud Platform?
 
 - Cloud Computing Powered by Google
 
@@ -52,7 +52,7 @@ class: middle
 
 class: middle
 
-# What is Google Cloud Platform?
+## What is Google Cloud Platform?
 
 - Cloud Computing Powered by Google
 - It includes products such as 
@@ -66,7 +66,7 @@ class: middle
 
 class: middle
 
-# What is Google Cloud Platform?
+## What is Google Cloud Platform?
 
 - Cloud Computing Powered by Google
 
@@ -78,7 +78,6 @@ class: middle
   - The list goes on!
 
 - To some extent it removes the need for physical hardware to act as your server
-
 
 ---
 
