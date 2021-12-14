@@ -11,6 +11,6 @@ class: middle
 # Agenda
 
 1. What was my project?
-   a. What is Google Cloud Platform?
-   b. What is serverless?
+   1. What is Google Cloud Platform?
+   2. What is serverless?
 2. What was my role?
