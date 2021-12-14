@@ -39,6 +39,7 @@ class: middle
 
 # What is Google Cloud Platform?
 
+.center[![GCP products](https://k21academy.com/wp-content/uploads/2021/01/google-cloud-services.jpg)]
 ---
 
 class: middle
@@ -66,7 +67,6 @@ class: middle
 class: middle
 
 # What is Google Cloud Platform?
-.right[![GCP products](https://k21academy.com/wp-content/uploads/2021/01/google-cloud-services.jpg)
 
 - Cloud Computing Powered by Google
 
