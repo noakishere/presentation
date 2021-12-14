@@ -11,7 +11,7 @@ Kamyar Karimi / TELUS / Fall Stage 2021
 1. What was my project? 
    1. What is Google Cloud Platform?
 2. What were the software used?
-3. What did I learn?
+3. Overall impressions
 
 .right[![Right-aligned image](https://c.tenor.com/tvFWFDXRrmMAAAAd/blow-mind-mind-blown.gif)]
 
@@ -85,7 +85,27 @@ Kamyar Karimi / TELUS / Fall Stage 2021
 
 ---
 
-## What did I learn?
+## Overall impressions
+
+- Telus side
+  - Weekly Meetings
+  - Bi-weekly feedback forms
+  - Growth Potential
+  - Learning
+    - Google Associate Cloud Engineer Certificate
+
+- GCP
+  - Research/Learning
+  - Internal Tools and documentations
+  - Trainings
+
+---
+
+## Thank you!
+
+- Questions?
+
+.center[![NoddingManAppreciates You](https://c.tenor.com/q-Smv2McwhQAAAAd/robert-redford-nod.gif)]
 
 
 
