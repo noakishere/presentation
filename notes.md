@@ -6,13 +6,10 @@ Kamyar Karimi / TELUS / Fall Stage 2021
 
 ---
 
-class: middle
-
 # Agenda
 
 1. What was my project? 
    1. What is Google Cloud Platform?
-   2. What is serverless?
 2. What were the software used?
 3. What did I learn?
 
@@ -20,11 +17,9 @@ class: middle
 
 ---
 
-class: middle
-
 ## What was my project?
 
-- Telus inc.
+- Telus
 - Google Cloud Platform Support
   
 - Developer Analyst I
@@ -35,22 +30,16 @@ class: middle
 
 ---
 
-class: middle
-
 ## What is Google Cloud Platform?
 
 .center[![GCP products](https://k21academy.com/wp-content/uploads/2021/01/google-cloud-services.jpg)]
 ---
-
-class: middle
 
 ## What is Google Cloud Platform?
 
 - Cloud Computing Powered by Google
 
 ---
-
-class: middle
 
 ## What is Google Cloud Platform?
 
@@ -63,8 +52,6 @@ class: middle
   - The list goes on!
 
 ---
-
-class: middle
 
 ## What is Google Cloud Platform?
 
@@ -80,6 +67,29 @@ class: middle
 - To some extent it removes the need for physical hardware to act as your server
 
 ---
+
+## What were the softwares/hardware used?
+
+- Hardware
+  - Chromebox
+    - Linux
+  - Monitors
+  - Headset / Webcam
+
+- Software
+  - GCP
+    - Serverless products
+  - Different runtimes
+    - Java - C#/.net - NodeJS - Python - GO - (some)PHP
+    - Cloud Shell / Linux Terminal -> Cloud SDK
+
+---
+
+## What did I learn?
+
+
+
+
 
 
 
