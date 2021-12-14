@@ -78,6 +78,10 @@ class: middle
 
 - To some extent it removes the need for physical hardware to act as your server
 
-.right[![Right-aligned image](https://878463.smushcdn.com/1984689/wp-content/uploads/2018/08/giphy.gif?lossy=1&strip=1&webp=1)]
+!(https://k21academy.com/wp-content/uploads/2021/01/google-cloud-services.jpg)
+
+---
+
+
 
 
