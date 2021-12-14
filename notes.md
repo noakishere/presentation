@@ -78,7 +78,7 @@ class: middle
 
 - To some extent it removes the need for physical hardware to act as your server
 
-!(https://k21academy.com/wp-content/uploads/2021/01/google-cloud-services.jpg)
+![GCP products](https://k21academy.com/wp-content/uploads/2021/01/google-cloud-services.jpg)
 
 ---
 
