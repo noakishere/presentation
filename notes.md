@@ -28,8 +28,14 @@ class: middle
 - Google Cloud Platform Support
   
 - Developer Analyst I
-  - Troubleshooting, consulting
+  - Troubleshooting, consulting+
 
 
-.left[![:scale 50%]![Left-aligned image](https://images.ctfassets.net/3cqlnin176yn/6Ijdf9MuukcyuWKWWigaSY/ae1d0b98f328d3f73b485e82ee8ed85f/LogoCOLOR_Telus_0.png)]
-.right[![:scale 50%]![Right-aligned image](https://i.pinimg.com/originals/f8/69/2c/f8692cb6767a74417c015360cd453b5b.gif)]
+.right[![Right-aligned image](https://i.pinimg.com/originals/f8/69/2c/f8692cb6767a74417c015360cd453b5b.gif)]
+
+---
+
+class: middle
+
+# What is Google Cloud Platform?
+
